@@ -1,3 +1,2 @@
-Clone very similar to Amazon website.
-Frontend - React
-Backend - Node
+Clone of Amazon
+Language - MERN
